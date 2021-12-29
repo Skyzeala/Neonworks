@@ -22,6 +22,9 @@ Suddenly the facility lights have all gone out and all of the security features 
 * Click the launch button to run the program and play the game
 
 ## Sources and attributions
+* "Destiny - Ghost [Follower Giveaway]" (https://skfb.ly/6uAKC) by dark-minaz, licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Steampunk Spider Robot" (https://skfb.ly/6STSu) by yanix, licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+* "Sci-Fi Camera Drone" (https://skfb.ly/6SNGZ) by 3dsofsan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 * I used this tutorial to animate textures
 https://www.youtube.com/watch?v=kqsVAKtE-Bo
