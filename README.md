@@ -28,7 +28,9 @@ Suddenly the facility lights have all gone out and all of the security features 
 
 * I used this tutorial to animate textures
 https://www.youtube.com/watch?v=kqsVAKtE-Bo
-* I used this tutorial to make the lightgun splatter
+* I used this tutorial while making the lightgun splatter
 https://www.youtube.com/watch?v=eV2VGnMtJIk
+* I used this tutorial to implement the health system
+https://www.youtube.com/watch?v=rA6PnJDY1m8
 * This forum post helped debug projectiles
 https://answers.unrealengine.com/questions/570222/problem-with-projectile-collision-component-is-pen.html
